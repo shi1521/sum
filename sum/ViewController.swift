@@ -12,7 +12,7 @@ class ViewController: UINavigationController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        LoadUI1(num1 : 1)
+        LoadUI1(num1 : 222)
         //self.navigationController?.pushViewController(LoadUI1(num1 : 1), animated: false)
         // Do any additional setup after loading the view, typically from a nib.
     }
